@@ -1,4 +1,4 @@
-Simple Epress Guestbook
+Simple Express Guestbook
 ===
 
 This repo contains code for a guestbook demo made with bootstrap and express.
